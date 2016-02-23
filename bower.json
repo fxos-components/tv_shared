@@ -1,7 +1,7 @@
 {
   "name": "tv_shared",
-  "version": "0.0.0",
-  "homepage": "https://github.com/smart-components/tv_shared",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fxos-components/tv_shared",
   "license": "MPL",
   "ignore": [
     "**/.*",
