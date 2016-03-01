@@ -1,1 +1,1 @@
-bower install smart-components/tv_shared
+bower install fxos-components/tv_shared
